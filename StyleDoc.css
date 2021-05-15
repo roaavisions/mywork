@@ -1,0 +1,67 @@
+body{
+
+background-color: rgb(126, 110, 151);
+
+}
+#items {
+
+color: rgb(41, 35, 35);
+
+}
+img{
+float: left;
+ margin-right: 20px;
+width: 100px;
+height: 100px;
+ padding: 0px;
+}
+div{
+
+background: rgb(46, 9, 58);
+width: 300px;
+height: 100px;
+padding: 0px,0px,0px,0px;
+
+/* display:inline-block; */
+}
+span{
+
+background: rgb(180, 100, 233);
+/* display: block;
+width: 300px;
+height: 100px; */
+border-radius: 5px;
+padding: 10px;
+
+}
+#hello{
+
+border: 10px solid rgb(94, 12, 110);
+padding: 10px;
+/* padding-left: 10px; */
+background: rgb(184, 183, 183);
+margin-top: 85px;
+margin-bottom: 1px;
+margin-right: 0px;
+width: 260px;
+height: 100;
+}
+h4{
+
+margin: 0px;
+
+}
+#mylist{
+    width: 300px;
+    height: 100px;
+    margin: 0px;
+}
+header h1{
+padding: 0px;
+color:rgb(135, 204, 135);
+height: 10px;
+/* margin: 10px; */
+ line-height: 1;
+ 
+ }
+ 
